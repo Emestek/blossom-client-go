@@ -1,5 +1,5 @@
-# build-scripts-client-go
-This repository contains a **sample Go application** that demonstrates how to integrate and use the [build-scripts-bash](https://github.com/Emestek/build-scripts-bash) project.
+# blossom-client-go
+This repository contains a **sample Go application** that demonstrates how to integrate and use the [blossom](https://github.com/Emestek/blossom) project.
 
 The Go client pulls the build scripts directly from GitHub and uses them like a shared library, allowing us to:
 
